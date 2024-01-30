@@ -11,7 +11,7 @@
 ### I'm Md Sabbir Hossain , I'm a Full Stack Web Developer
 
 - 🔭 I’m currently working on Fruty
-- 🌱 I’m currently learning I’m currently learning DevOps and Cyber Security
+- 🌱 I’m currently learning DevOps and Cyber Security
 - 💬 Ask me about related to MERN stack and related tech
 - 📫 How to reach me: mdsabbir1054@gmail.com
 - ⚡ Fun fact: I use tabs over spaces
