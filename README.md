@@ -1,11 +1,11 @@
 ![I am Full Stack Web Developer](https://i.ibb.co/T0P5LXq/sabbir-big.png)
 
-<p align="center">
+<div align="center">
 
-![www.mdsabbir.dev](https://www.mdsabbir.dev)
+[www.mdsabbir.dev](https://www.mdsabbir.dev)
 
- </p>
- 
+ </div>
+
 #### Hi there 👋,
 
 ##### I'm Md Sabbir Hossain , I'm a Full Stack Web Developer
@@ -94,9 +94,9 @@
 
 </div>
 
-<p align="center">
+<div align="center">
 
-![www.mdsabbir.dev](https://www.mdsabbir.dev)
+[www.mdsabbir.dev](https://www.mdsabbir.dev)
 
- </p>
+ </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nirob844&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir1054" /> </p>
