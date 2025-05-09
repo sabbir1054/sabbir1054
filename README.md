@@ -100,3 +100,5 @@
 
  </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nirob844&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir1054" /> </p>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sabbir1054)](https://github.com/sabbir1054/github-readme-stats)
