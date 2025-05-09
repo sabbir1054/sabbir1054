@@ -85,8 +85,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir1054&hide_border=true&layout=compact" align="left" />
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sabbir1054&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sabbir1054&show_icons=true&count_private=true&hide_border=true" align="center" /></div> -->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sabbir1054?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 <br/>
 <div align="center">
 
